@@ -3,5 +3,5 @@ setup(
     name="pbencryption",
     version="1.0.0",
     packages=['pbencryption'],
-    install_requires=['cryptography==2.3.1']
+    install_requires=['cryptography==3.2']
 )
